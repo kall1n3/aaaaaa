@@ -1,0 +1,59 @@
+form{
+	margin:40px 0;
+}
+
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+
+}
+
+.input-padrao{
+	display: block;
+	font-size: 20px;
+	padding: 10px 20px;
+	width: 50%;
+}
+
+.enviar{
+
+	width: 40%;
+	padding: 15px 0;
+	background: purple;
+	color: white;
+	font-weight: bold;
+	font-size: 20px
+	border: none;
+	border-radius: 10px;
+	border-color: red;
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.enviar:hover{
+	background: blue;
+	transform: scale(1.3);
+
+	
+    
+   }
+.enviarrr{
+
+	width: 40%;
+	padding: 15px 0;
+	background: yellow;
+	color: white;
+	font-weight: bold;
+	font-size: 20px
+	border: none;
+	border-radius: 10px;
+	border-color: red;
+	transition: 1s all;
+	cursor: pointer;
+}
+   .enviarrr:hover{
+
+   	background: orange;
+   	transform: rotate(1000deg);
+   }
